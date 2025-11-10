@@ -1,4 +1,7 @@
 # AgriData-Explorer-Understanding-Indian-agriculture-with-EDA
+using skills for this project are:
+Python script,data cleaning, EDA, SQL, Power BI
+
 AgriData Explorer: Understanding Indian Agriculture with EDA 🌿📊
     This project, "AgriData Explorer," focuses on performing Exploratory Data Analysis (EDA) on a comprehensive dataset detailing Indian agriculture. The core objective is to uncover patterns, trends, and anomalies within the complex agricultural landscape of India, which is a backbone of the nation's economy.
     project goals:
